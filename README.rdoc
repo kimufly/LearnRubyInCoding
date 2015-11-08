@@ -1,6 +1,5 @@
 == README
 
-<<<<<<< HEAD
 === ENV_VERSION
 
 > ruby 2.2.3
