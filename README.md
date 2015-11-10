@@ -1,6 +1,6 @@
-== README
+## README
 
-==== ENV_VERSION
+#### ENV_VERSION
 
 > ruby 2.2.3
 
@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+* System dependenciesgi
 
 * Configuration
 
